@@ -1,2 +1,2 @@
-# sampleapp
-This repo servers as new GIT repo for my application
+# ion
+Sample Application Template
